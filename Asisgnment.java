@@ -5,11 +5,11 @@ public class Asisgnment {
 
         int a = 5;
         a += 5; //a = a + 5
-        System.out.print(a);
+        System.out.println(a);
 
         int b = 10;
         b -= 7;
-        System.out.print(b);
+        System.out.println(b);
 
         int c = 10;
         c *= 5;

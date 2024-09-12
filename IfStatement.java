@@ -12,7 +12,6 @@ public class IfStatement {
 
         if (nomorHari == 1) {
             namaHari = "Minggu";
-
         } else if (nomorHari == 2) {
             namaHari = "Senin";
         } else if (nomorHari == 3) {

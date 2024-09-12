@@ -7,8 +7,6 @@ public class UnaryOperator {
         System.out.println(--y);
         System.out.println(y--);
 
-
-
         boolean isTrue = true;
         System.out.println(!isTrue);
 
